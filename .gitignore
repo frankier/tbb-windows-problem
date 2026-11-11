@@ -1,0 +1,5 @@
+build/
+build-wine/
+dist/
+*.user
+CMakeUserPresets.json
